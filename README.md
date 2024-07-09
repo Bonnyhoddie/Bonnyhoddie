@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bonnyhoddie
+- 👋 Hi, I’m Chari, AKA @Bonnyhoddie
 - 👀 I’m interested in MILGRAM, MLP, I Was A Teenage Exocolonist
 - 🌱 I’m currently learning Ren'Py and Python
 - 📫 You can reach me on Discord 
